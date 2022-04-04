@@ -1,9 +1,0 @@
-D:\projects\Peripherals\ReedSolomonEncoder\bin\Debug\ReedSolomonEncoder.exe.config
-D:\projects\Peripherals\ReedSolomonEncoder\bin\Debug\ReedSolomonEncoder.exe
-D:\projects\Peripherals\ReedSolomonEncoder\bin\Debug\ReedSolomonEncoder.pdb
-D:\projects\Peripherals\ReedSolomonEncoder\obj\Debug\ReedSolomonEncoder.csprojResolveAssemblyReference.cache
-D:\projects\Peripherals\ReedSolomonEncoder\obj\Debug\ReedSolomonEncoder.Form1.resources
-D:\projects\Peripherals\ReedSolomonEncoder\obj\Debug\ReedSolomonEncoder.Properties.Resources.resources
-D:\projects\Peripherals\ReedSolomonEncoder\obj\Debug\ReedSolomonEncoder.csproj.GenerateResource.Cache
-D:\projects\Peripherals\ReedSolomonEncoder\obj\Debug\ReedSolomonEncoder.exe
-D:\projects\Peripherals\ReedSolomonEncoder\obj\Debug\ReedSolomonEncoder.pdb

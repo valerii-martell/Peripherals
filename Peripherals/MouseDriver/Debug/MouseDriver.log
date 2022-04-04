@@ -1,4 +1,0 @@
-﻿  MouseDriver.c
-d:\projects\peripherals\mousedriver\mousedriver.c(117): warning C4550: expression evaluates to a function which is missing an argument list
-  MouseDriver.vcxproj -> D:\projects\Peripherals\Debug\MouseDriver.exe
-  MouseDriver.vcxproj -> D:\projects\Peripherals\Debug\MouseDriver.pdb (Full PDB)
